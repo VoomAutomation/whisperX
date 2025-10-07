@@ -1,0 +1,182 @@
+[
+  {
+    "phoneme": "ʃ",
+    "start": 0.2,
+    "end": 0.26,
+    "duration": 0.06
+  },
+  {
+    "phoneme": "w",
+    "start": 0.26,
+    "end": 0.28,
+    "duration": 0.02
+  },
+  {
+    "phoneme": "f",
+    "start": 0.28,
+    "end": 1.024,
+    "duration": 0.744
+  },
+  {
+    "phoneme": "w",
+    "start": 1.024,
+    "end": 1.045,
+    "duration": 0.021
+  },
+  {
+    "phoneme": "aː",
+    "start": 1.045,
+    "end": 1.065,
+    "duration": 0.02
+  },
+  {
+    "phoneme": "l",
+    "start": 1.185,
+    "end": 1.406,
+    "duration": 0.221
+  },
+  {
+    "phoneme": "aː",
+    "start": 1.406,
+    "end": 1.427,
+    "duration": 0.021
+  },
+  {
+    "phoneme": "t",
+    "start": 1.447,
+    "end": 1.467,
+    "duration": 0.02
+  },
+  {
+    "phoneme": "dˤ",
+    "start": 1.467,
+    "end": 1.487,
+    "duration": 0.02
+  },
+  {
+    "phoneme": "j",
+    "start": 1.487,
+    "end": 1.567,
+    "duration": 0.08
+  },
+  {
+    "phoneme": "ʕ",
+    "start": 1.567,
+    "end": 1.668,
+    "duration": 0.101
+  },
+  {
+    "phoneme": "w",
+    "start": 1.668,
+    "end": 1.789,
+    "duration": 0.121
+  },
+  {
+    "phoneme": "n",
+    "start": 1.789,
+    "end": 2.352,
+    "duration": 0.563
+  },
+  {
+    "phoneme": "l",
+    "start": 2.512,
+    "end": 2.573,
+    "duration": 0.061
+  },
+  {
+    "phoneme": "aː",
+    "start": 2.573,
+    "end": 2.613,
+    "duration": 0.04
+  },
+  {
+    "phoneme": "ħ",
+    "start": 2.814,
+    "end": 2.995,
+    "duration": 0.181
+  },
+  {
+    "phoneme": "d",
+    "start": 2.995,
+    "end": 3.035,
+    "duration": 0.04
+  },
+  {
+    "phoneme": "j",
+    "start": 3.055,
+    "end": 3.156,
+    "duration": 0.101
+  },
+  {
+    "phoneme": "t",
+    "start": 3.156,
+    "end": 3.256,
+    "duration": 0.1
+  },
+  {
+    "phoneme": "ħ",
+    "start": 3.256,
+    "end": 3.478,
+    "duration": 0.222
+  },
+  {
+    "phoneme": "r",
+    "start": 3.478,
+    "end": 3.659,
+    "duration": 0.181
+  },
+  {
+    "phoneme": "k",
+    "start": 3.659,
+    "end": 3.699,
+    "duration": 0.04
+  },
+  {
+    "phoneme": "ħ",
+    "start": 4.041,
+    "end": 4.242,
+    "duration": 0.201
+  },
+  {
+    "phoneme": "t",
+    "start": 4.242,
+    "end": 4.342,
+    "duration": 0.1
+  },
+  {
+    "phoneme": "j",
+    "start": 4.342,
+    "end": 4.564,
+    "duration": 0.222
+  },
+  {
+    "phoneme": "aː",
+    "start": 4.564,
+    "end": 4.584,
+    "duration": 0.02
+  },
+  {
+    "phoneme": "h",
+    "start": 4.584,
+    "end": 4.664,
+    "duration": 0.08
+  },
+  {
+    "phoneme": "j",
+    "start": 4.664,
+    "end": 4.825,
+    "duration": 0.161
+  },
+  {
+    "phoneme": "k",
+    "start": 4.825,
+    "end": 4.966,
+    "duration": 0.141
+  },
+  {
+    "phoneme": "m",
+    "start": 4.966,
+    "end": 5.046,
+    "duration": 0.08
+  }
+]
