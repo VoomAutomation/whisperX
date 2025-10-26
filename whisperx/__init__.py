@@ -25,6 +25,9 @@ def load_audio(*args, **kwargs):
     audio = _lazy_import("audio")
     return audio.load_audio(*args, **kwargs)
 
+def pad_or_trim(*args, **kwargs):
+    audio = _lazy_import("audio")
+    return audio.pad_or_trim(*args, **kwargs)
 
 def assign_word_speakers(*args, **kwargs):
     diarize = _lazy_import("diarize")
